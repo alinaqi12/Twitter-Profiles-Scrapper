@@ -1,0 +1,11 @@
+certifi
+selenium==4.2.0
+python-dotenv
+chromedriver-autoinstaller
+geckodriver-autoinstaller
+urllib3
+requests
+pandas
+strsimpy
+mysql.connector
+mysql-connector-python
